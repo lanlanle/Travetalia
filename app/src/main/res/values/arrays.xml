@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Home Sweet Home</item>
+        <item>Yots'place</item>
+        <item>Madal</item>
+        <item>Kalvin Ter</item>
+        <item>AIT Budapest</item>
+        <item>Graphisoft Park</item>
+        <item>Romieee Homieee</item>
+        <item>Prague</item>
+        <item>Budapest</item>
+        <item>Barcelona</item>
+        <item>Strawberryland</item>
+        <item>Eiffel Tower</item>
+        <item>Beretland</item>
+        <item>Gelatoland</item>
+        <item>Tiramisuland</item>
+    </string-array>
+</resources>
